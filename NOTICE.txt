@@ -1,0 +1,2 @@
+Colours are derived from VS Code (https://github.com/microsoft/vscode),
+which is MIT licensed. "Visual Studio Code" is a trademark of Microsoft.
