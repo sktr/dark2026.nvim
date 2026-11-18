@@ -19,4 +19,9 @@ vim.cmd("colorscheme vscode2026dark")
 
 ## License
 
-MIT. VS Code and its default themes are MIT licensed by Microsoft; see `LICENSE`.
+This project is MIT licensed (see `LICENSE`).
+
+Colour values are derived from Visual Studio Code's default themes, which are
+MIT licensed, Copyright (c) Microsoft Corporation. The full notice is in
+`NOTICE.txt`. "Visual Studio Code" is a trademark of Microsoft Corporation;
+this project is not affiliated with or endorsed by Microsoft.
