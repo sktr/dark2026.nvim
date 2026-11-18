@@ -1,11 +1,11 @@
--- vscode2026dark.nvim
+-- dark2026.nvim
 -- Colours extracted from VS Code's built-in "Dark 2026" theme (MIT).
 -- UI colours come from 2026-dark.json; token colours from its TextMate scopes.
 vim.cmd("highlight clear")
 if vim.fn.exists("syntax_on") == 1 then
   vim.cmd("syntax reset")
 end
-vim.g.colors_name = "vscode2026dark"
+vim.g.colors_name = "dark2026"
 
 local set = vim.api.nvim_set_hl
 

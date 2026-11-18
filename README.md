@@ -1,4 +1,4 @@
-# vscode2026dark.nvim
+# dark2026.nvim
 
 A Neovim colourscheme generated from the colours of VS Code's built-in **Dark 2026** theme (`2026-dark.json`).
 
@@ -7,8 +7,8 @@ Not affiliated with Microsoft. UI colours are taken from the theme's `colors` ma
 ## Install
 
 ```lua
-vim.pack.add({ { src = "https://github.com/sktr/vscode2026dark.nvim" } })
-vim.cmd("colorscheme vscode2026dark")
+vim.pack.add({ { src = "https://github.com/sktr/dark2026.nvim" } })
+vim.cmd("colorscheme dark2026")
 ```
 
 ## Notes
